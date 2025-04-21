@@ -18,10 +18,4 @@ A visually stunning and interactive 3D card animation built with HTML, CSS, and 
 
 ## 📸 Demo
 
-![3D Crazy Card Animation Preview]([preview.png](https://github.com/user-attachments/assets/6b62bc82-237f-4072-b498-94f422376197))  
-*Note: Replace with your actual demo screenshot or GIF.*
-
-Live Demo 👉 [Your Live Site Link](#)
-
-## 📂 Folder Structure
-
+![Screenshot (75)](https://github.com/user-attachments/assets/5ad972bb-9728-4293-bedb-5b3634aede6b)
